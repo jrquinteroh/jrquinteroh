@@ -46,5 +46,5 @@ Here are a few projects I've worked on:
 </p>
 
 ---
-⭐️ From [Your Name](https://github.com/jrquinteroh)
+⭐️ From [Juan Quintero](https://github.com/jrquinteroh)
 
