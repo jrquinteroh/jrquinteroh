@@ -26,19 +26,17 @@ I am a MSc Student on Big Data And Business Analytics. I have a passion for spor
 ## Projects
 Here are a few projects I've worked on:
 
-### [Project Name]
+### Quantitative Analysis of the Influence of the Telecommunications Industry on Congressional Voting Behavior
 ![Project Logo](ProjectLogoURL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ProjectName&theme=radical)](https://github.com/YourUsername/ProjectName)
 - **Description**: [Brief Description]
-- **Technologies**: [Tech Stack]
-- [Live Demo](LiveDemoURL) | [Repo](https://github.com/YourUsername/ProjectName)
+- **Technologies**: R
 
-### [Project Name]
+### Cattle and Livetsock Analysis of material food on Animal Weight and Overall Health
 ![Project Logo](ProjectLogoURL)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ProjectName&theme=radical)](https://github.com/YourUsername/ProjectName)
 - **Description**: [Brief Description]
-- **Technologies**: [Tech Stack]
-- [Live Demo](LiveDemoURL) | [Repo](https://github.com/YourUsername/ProjectName)
+- **Technologies**: Excel
 
 ## Connect with Me
 <p align="left">
