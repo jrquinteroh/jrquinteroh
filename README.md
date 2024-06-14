@@ -1,7 +1,7 @@
 # Hello, I'm Juan Quintero 👋
 
 ## About Me
-I am a MSc Student on Big Data And Business Analytics. I have a passion for sports and learning, and enjoy working on projects involving SQL, Python, and Excel on any sort of industry and field.
+I am a MSc Student on Big Data And Business Analytics. I have a passion for sports and learning, and enjoy working on projects involving SQL, Python, R and Excel on any sort of industry and field.
 
 - 🔭 I’m currently working on my MBD degree :)
 - 🌱 I’m currently learning Python, SQL, R
